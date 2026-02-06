@@ -1,4 +1,4 @@
-# Web Programming Practice
+# Web Programming
 
 학교 수업 웹프로그래밍을 한 학기 동안 수강하며 실습, 과제로 작성한 코드 모음입니다.  
 HTML, CSS, JavaScript의 기초 문법과 웹 페이지 동작 원리를 학습하는 것을 목표로 한 개인 학습 기록용 레포지토리입니다.
